@@ -1,0 +1,6 @@
+{
+  "name": "SA Trade - IT Hardware & Security Solutions",
+  "description": "Comprehensive IT equipment sales, purchase, repair, CCTV, access control, networking and AMC solutions for businesses and individuals with a powerful catalog, enquiry system, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
